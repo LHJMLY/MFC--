@@ -1,0 +1,16 @@
+#所有文件夹
+*/
+!res/
+
+*.aps
+
+.vs/
+
+*.sln
+
+*.vcxproj
+
+*.filters
+
+*.user
+
